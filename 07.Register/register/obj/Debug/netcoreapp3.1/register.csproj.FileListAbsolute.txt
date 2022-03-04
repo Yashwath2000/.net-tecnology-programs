@@ -1,0 +1,13 @@
+C:\Users\MCA\source\repos\register\register\bin\Debug\netcoreapp3.1\register.exe
+C:\Users\MCA\source\repos\register\register\bin\Debug\netcoreapp3.1\register.deps.json
+C:\Users\MCA\source\repos\register\register\bin\Debug\netcoreapp3.1\register.runtimeconfig.json
+C:\Users\MCA\source\repos\register\register\bin\Debug\netcoreapp3.1\register.runtimeconfig.dev.json
+C:\Users\MCA\source\repos\register\register\bin\Debug\netcoreapp3.1\register.dll
+C:\Users\MCA\source\repos\register\register\bin\Debug\netcoreapp3.1\register.pdb
+C:\Users\MCA\source\repos\register\register\obj\Debug\netcoreapp3.1\register.csprojAssemblyReference.cache
+C:\Users\MCA\source\repos\register\register\obj\Debug\netcoreapp3.1\register.AssemblyInfoInputs.cache
+C:\Users\MCA\source\repos\register\register\obj\Debug\netcoreapp3.1\register.AssemblyInfo.cs
+C:\Users\MCA\source\repos\register\register\obj\Debug\netcoreapp3.1\register.csproj.CoreCompileInputs.cache
+C:\Users\MCA\source\repos\register\register\obj\Debug\netcoreapp3.1\register.dll
+C:\Users\MCA\source\repos\register\register\obj\Debug\netcoreapp3.1\register.pdb
+C:\Users\MCA\source\repos\register\register\obj\Debug\netcoreapp3.1\register.genruntimeconfig.cache
