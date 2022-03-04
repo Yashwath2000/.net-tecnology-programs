@@ -1,0 +1,13 @@
+C:\Users\MCA\source\repos\prog4\prog4\obj\Debug\netcoreapp3.1\prog4.csprojAssemblyReference.cache
+C:\Users\MCA\source\repos\prog4\prog4\obj\Debug\netcoreapp3.1\prog4.AssemblyInfoInputs.cache
+C:\Users\MCA\source\repos\prog4\prog4\obj\Debug\netcoreapp3.1\prog4.AssemblyInfo.cs
+C:\Users\MCA\source\repos\prog4\prog4\obj\Debug\netcoreapp3.1\prog4.csproj.CoreCompileInputs.cache
+C:\Users\MCA\source\repos\prog4\prog4\bin\Debug\netcoreapp3.1\prog4.exe
+C:\Users\MCA\source\repos\prog4\prog4\bin\Debug\netcoreapp3.1\prog4.deps.json
+C:\Users\MCA\source\repos\prog4\prog4\bin\Debug\netcoreapp3.1\prog4.runtimeconfig.json
+C:\Users\MCA\source\repos\prog4\prog4\bin\Debug\netcoreapp3.1\prog4.runtimeconfig.dev.json
+C:\Users\MCA\source\repos\prog4\prog4\bin\Debug\netcoreapp3.1\prog4.dll
+C:\Users\MCA\source\repos\prog4\prog4\bin\Debug\netcoreapp3.1\prog4.pdb
+C:\Users\MCA\source\repos\prog4\prog4\obj\Debug\netcoreapp3.1\prog4.dll
+C:\Users\MCA\source\repos\prog4\prog4\obj\Debug\netcoreapp3.1\prog4.pdb
+C:\Users\MCA\source\repos\prog4\prog4\obj\Debug\netcoreapp3.1\prog4.genruntimeconfig.cache
