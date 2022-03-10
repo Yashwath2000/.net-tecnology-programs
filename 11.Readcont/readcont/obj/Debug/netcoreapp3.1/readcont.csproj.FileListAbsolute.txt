@@ -1,0 +1,13 @@
+C:\Users\MCA\source\repos\readcont\readcont\obj\Debug\netcoreapp3.1\readcont.csprojAssemblyReference.cache
+C:\Users\MCA\source\repos\readcont\readcont\obj\Debug\netcoreapp3.1\readcont.AssemblyInfoInputs.cache
+C:\Users\MCA\source\repos\readcont\readcont\obj\Debug\netcoreapp3.1\readcont.AssemblyInfo.cs
+C:\Users\MCA\source\repos\readcont\readcont\obj\Debug\netcoreapp3.1\readcont.csproj.CoreCompileInputs.cache
+C:\Users\MCA\source\repos\readcont\readcont\bin\Debug\netcoreapp3.1\readcont.exe
+C:\Users\MCA\source\repos\readcont\readcont\bin\Debug\netcoreapp3.1\readcont.deps.json
+C:\Users\MCA\source\repos\readcont\readcont\bin\Debug\netcoreapp3.1\readcont.runtimeconfig.json
+C:\Users\MCA\source\repos\readcont\readcont\bin\Debug\netcoreapp3.1\readcont.runtimeconfig.dev.json
+C:\Users\MCA\source\repos\readcont\readcont\bin\Debug\netcoreapp3.1\readcont.dll
+C:\Users\MCA\source\repos\readcont\readcont\bin\Debug\netcoreapp3.1\readcont.pdb
+C:\Users\MCA\source\repos\readcont\readcont\obj\Debug\netcoreapp3.1\readcont.dll
+C:\Users\MCA\source\repos\readcont\readcont\obj\Debug\netcoreapp3.1\readcont.pdb
+C:\Users\MCA\source\repos\readcont\readcont\obj\Debug\netcoreapp3.1\readcont.genruntimeconfig.cache
