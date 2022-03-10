@@ -1,0 +1,13 @@
+C:\Users\MCA\source\repos\icompare_inter\icompare_inter\obj\Debug\netcoreapp3.1\icompare_inter.csprojAssemblyReference.cache
+C:\Users\MCA\source\repos\icompare_inter\icompare_inter\obj\Debug\netcoreapp3.1\icompare_inter.AssemblyInfoInputs.cache
+C:\Users\MCA\source\repos\icompare_inter\icompare_inter\obj\Debug\netcoreapp3.1\icompare_inter.AssemblyInfo.cs
+C:\Users\MCA\source\repos\icompare_inter\icompare_inter\obj\Debug\netcoreapp3.1\icompare_inter.csproj.CoreCompileInputs.cache
+C:\Users\MCA\source\repos\icompare_inter\icompare_inter\bin\Debug\netcoreapp3.1\icompare_inter.exe
+C:\Users\MCA\source\repos\icompare_inter\icompare_inter\bin\Debug\netcoreapp3.1\icompare_inter.deps.json
+C:\Users\MCA\source\repos\icompare_inter\icompare_inter\bin\Debug\netcoreapp3.1\icompare_inter.runtimeconfig.json
+C:\Users\MCA\source\repos\icompare_inter\icompare_inter\bin\Debug\netcoreapp3.1\icompare_inter.runtimeconfig.dev.json
+C:\Users\MCA\source\repos\icompare_inter\icompare_inter\bin\Debug\netcoreapp3.1\icompare_inter.dll
+C:\Users\MCA\source\repos\icompare_inter\icompare_inter\bin\Debug\netcoreapp3.1\icompare_inter.pdb
+C:\Users\MCA\source\repos\icompare_inter\icompare_inter\obj\Debug\netcoreapp3.1\icompare_inter.dll
+C:\Users\MCA\source\repos\icompare_inter\icompare_inter\obj\Debug\netcoreapp3.1\icompare_inter.pdb
+C:\Users\MCA\source\repos\icompare_inter\icompare_inter\obj\Debug\netcoreapp3.1\icompare_inter.genruntimeconfig.cache
