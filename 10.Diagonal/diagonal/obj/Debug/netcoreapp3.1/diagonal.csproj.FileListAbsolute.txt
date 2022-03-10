@@ -1,0 +1,13 @@
+C:\Users\MCA\source\repos\diagonal\diagonal\obj\Debug\netcoreapp3.1\diagonal.csprojAssemblyReference.cache
+C:\Users\MCA\source\repos\diagonal\diagonal\obj\Debug\netcoreapp3.1\diagonal.AssemblyInfoInputs.cache
+C:\Users\MCA\source\repos\diagonal\diagonal\obj\Debug\netcoreapp3.1\diagonal.AssemblyInfo.cs
+C:\Users\MCA\source\repos\diagonal\diagonal\obj\Debug\netcoreapp3.1\diagonal.csproj.CoreCompileInputs.cache
+C:\Users\MCA\source\repos\diagonal\diagonal\bin\Debug\netcoreapp3.1\diagonal.exe
+C:\Users\MCA\source\repos\diagonal\diagonal\bin\Debug\netcoreapp3.1\diagonal.deps.json
+C:\Users\MCA\source\repos\diagonal\diagonal\bin\Debug\netcoreapp3.1\diagonal.runtimeconfig.json
+C:\Users\MCA\source\repos\diagonal\diagonal\bin\Debug\netcoreapp3.1\diagonal.runtimeconfig.dev.json
+C:\Users\MCA\source\repos\diagonal\diagonal\bin\Debug\netcoreapp3.1\diagonal.dll
+C:\Users\MCA\source\repos\diagonal\diagonal\bin\Debug\netcoreapp3.1\diagonal.pdb
+C:\Users\MCA\source\repos\diagonal\diagonal\obj\Debug\netcoreapp3.1\diagonal.dll
+C:\Users\MCA\source\repos\diagonal\diagonal\obj\Debug\netcoreapp3.1\diagonal.pdb
+C:\Users\MCA\source\repos\diagonal\diagonal\obj\Debug\netcoreapp3.1\diagonal.genruntimeconfig.cache
