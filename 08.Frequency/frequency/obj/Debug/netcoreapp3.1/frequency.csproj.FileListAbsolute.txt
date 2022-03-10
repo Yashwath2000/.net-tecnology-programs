@@ -1,0 +1,13 @@
+C:\Users\MCA\source\repos\frequency\frequency\obj\Debug\netcoreapp3.1\frequency.csprojAssemblyReference.cache
+C:\Users\MCA\source\repos\frequency\frequency\obj\Debug\netcoreapp3.1\frequency.AssemblyInfoInputs.cache
+C:\Users\MCA\source\repos\frequency\frequency\obj\Debug\netcoreapp3.1\frequency.AssemblyInfo.cs
+C:\Users\MCA\source\repos\frequency\frequency\obj\Debug\netcoreapp3.1\frequency.csproj.CoreCompileInputs.cache
+C:\Users\MCA\source\repos\frequency\frequency\bin\Debug\netcoreapp3.1\frequency.exe
+C:\Users\MCA\source\repos\frequency\frequency\bin\Debug\netcoreapp3.1\frequency.deps.json
+C:\Users\MCA\source\repos\frequency\frequency\bin\Debug\netcoreapp3.1\frequency.runtimeconfig.json
+C:\Users\MCA\source\repos\frequency\frequency\bin\Debug\netcoreapp3.1\frequency.runtimeconfig.dev.json
+C:\Users\MCA\source\repos\frequency\frequency\bin\Debug\netcoreapp3.1\frequency.dll
+C:\Users\MCA\source\repos\frequency\frequency\bin\Debug\netcoreapp3.1\frequency.pdb
+C:\Users\MCA\source\repos\frequency\frequency\obj\Debug\netcoreapp3.1\frequency.dll
+C:\Users\MCA\source\repos\frequency\frequency\obj\Debug\netcoreapp3.1\frequency.pdb
+C:\Users\MCA\source\repos\frequency\frequency\obj\Debug\netcoreapp3.1\frequency.genruntimeconfig.cache
