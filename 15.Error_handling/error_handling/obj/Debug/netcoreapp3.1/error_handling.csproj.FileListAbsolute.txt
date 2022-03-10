@@ -1,0 +1,13 @@
+C:\Users\MCA\source\repos\error_handling\error_handling\bin\Debug\netcoreapp3.1\error_handling.exe
+C:\Users\MCA\source\repos\error_handling\error_handling\bin\Debug\netcoreapp3.1\error_handling.deps.json
+C:\Users\MCA\source\repos\error_handling\error_handling\bin\Debug\netcoreapp3.1\error_handling.runtimeconfig.json
+C:\Users\MCA\source\repos\error_handling\error_handling\bin\Debug\netcoreapp3.1\error_handling.runtimeconfig.dev.json
+C:\Users\MCA\source\repos\error_handling\error_handling\bin\Debug\netcoreapp3.1\error_handling.dll
+C:\Users\MCA\source\repos\error_handling\error_handling\bin\Debug\netcoreapp3.1\error_handling.pdb
+C:\Users\MCA\source\repos\error_handling\error_handling\obj\Debug\netcoreapp3.1\error_handling.csprojAssemblyReference.cache
+C:\Users\MCA\source\repos\error_handling\error_handling\obj\Debug\netcoreapp3.1\error_handling.AssemblyInfoInputs.cache
+C:\Users\MCA\source\repos\error_handling\error_handling\obj\Debug\netcoreapp3.1\error_handling.AssemblyInfo.cs
+C:\Users\MCA\source\repos\error_handling\error_handling\obj\Debug\netcoreapp3.1\error_handling.csproj.CoreCompileInputs.cache
+C:\Users\MCA\source\repos\error_handling\error_handling\obj\Debug\netcoreapp3.1\error_handling.dll
+C:\Users\MCA\source\repos\error_handling\error_handling\obj\Debug\netcoreapp3.1\error_handling.pdb
+C:\Users\MCA\source\repos\error_handling\error_handling\obj\Debug\netcoreapp3.1\error_handling.genruntimeconfig.cache
