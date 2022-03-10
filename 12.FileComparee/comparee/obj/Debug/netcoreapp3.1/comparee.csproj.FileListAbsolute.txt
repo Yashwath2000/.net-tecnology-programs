@@ -1,0 +1,13 @@
+C:\Users\MCA\source\repos\comparee\comparee\bin\Debug\netcoreapp3.1\comparee.exe
+C:\Users\MCA\source\repos\comparee\comparee\bin\Debug\netcoreapp3.1\comparee.deps.json
+C:\Users\MCA\source\repos\comparee\comparee\bin\Debug\netcoreapp3.1\comparee.runtimeconfig.json
+C:\Users\MCA\source\repos\comparee\comparee\bin\Debug\netcoreapp3.1\comparee.runtimeconfig.dev.json
+C:\Users\MCA\source\repos\comparee\comparee\bin\Debug\netcoreapp3.1\comparee.dll
+C:\Users\MCA\source\repos\comparee\comparee\bin\Debug\netcoreapp3.1\comparee.pdb
+C:\Users\MCA\source\repos\comparee\comparee\obj\Debug\netcoreapp3.1\comparee.csprojAssemblyReference.cache
+C:\Users\MCA\source\repos\comparee\comparee\obj\Debug\netcoreapp3.1\comparee.AssemblyInfoInputs.cache
+C:\Users\MCA\source\repos\comparee\comparee\obj\Debug\netcoreapp3.1\comparee.AssemblyInfo.cs
+C:\Users\MCA\source\repos\comparee\comparee\obj\Debug\netcoreapp3.1\comparee.csproj.CoreCompileInputs.cache
+C:\Users\MCA\source\repos\comparee\comparee\obj\Debug\netcoreapp3.1\comparee.dll
+C:\Users\MCA\source\repos\comparee\comparee\obj\Debug\netcoreapp3.1\comparee.pdb
+C:\Users\MCA\source\repos\comparee\comparee\obj\Debug\netcoreapp3.1\comparee.genruntimeconfig.cache
