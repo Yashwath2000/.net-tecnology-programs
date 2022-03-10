@@ -1,0 +1,13 @@
+C:\Users\MCA\source\repos\thread_pools\thread_pools\bin\Debug\netcoreapp3.1\thread_pools.exe
+C:\Users\MCA\source\repos\thread_pools\thread_pools\bin\Debug\netcoreapp3.1\thread_pools.deps.json
+C:\Users\MCA\source\repos\thread_pools\thread_pools\bin\Debug\netcoreapp3.1\thread_pools.runtimeconfig.json
+C:\Users\MCA\source\repos\thread_pools\thread_pools\bin\Debug\netcoreapp3.1\thread_pools.runtimeconfig.dev.json
+C:\Users\MCA\source\repos\thread_pools\thread_pools\bin\Debug\netcoreapp3.1\thread_pools.dll
+C:\Users\MCA\source\repos\thread_pools\thread_pools\bin\Debug\netcoreapp3.1\thread_pools.pdb
+C:\Users\MCA\source\repos\thread_pools\thread_pools\obj\Debug\netcoreapp3.1\thread_pools.csprojAssemblyReference.cache
+C:\Users\MCA\source\repos\thread_pools\thread_pools\obj\Debug\netcoreapp3.1\thread_pools.AssemblyInfoInputs.cache
+C:\Users\MCA\source\repos\thread_pools\thread_pools\obj\Debug\netcoreapp3.1\thread_pools.AssemblyInfo.cs
+C:\Users\MCA\source\repos\thread_pools\thread_pools\obj\Debug\netcoreapp3.1\thread_pools.csproj.CoreCompileInputs.cache
+C:\Users\MCA\source\repos\thread_pools\thread_pools\obj\Debug\netcoreapp3.1\thread_pools.dll
+C:\Users\MCA\source\repos\thread_pools\thread_pools\obj\Debug\netcoreapp3.1\thread_pools.pdb
+C:\Users\MCA\source\repos\thread_pools\thread_pools\obj\Debug\netcoreapp3.1\thread_pools.genruntimeconfig.cache
